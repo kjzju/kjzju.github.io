@@ -1,7 +1,7 @@
 # 图像换天
 图像换天demo
 
-![](qrcode_for_gh_0d3e241c6f10_258.jpg)
+![](damo.mp4)
 
 # 关于 blog-demos 代码仓库
 

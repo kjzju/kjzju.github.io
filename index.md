@@ -1,16 +1,12 @@
 # 孔杰
 安徽六安 | 29岁 | 算法工程师 | 工作年限：5年
 ## 虚拟主播
-图像换天demo
-
-![](damo.mp4)
+![](virtual_host.mp4)
+(内含声音，请下载播放！)
 
 ## 极速数字人
-
-1. Github地址：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
-2. Gitee地址：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
-3. 这个代码仓库里是博客中涉及的源码、文件等
-4. 如果对您有帮助，欢迎给个**Star**，感谢~~
+![](virtual_host_fast.mp4)
+(内含声音，请下载播放！)
 
 ## 3D数字人捏脸
 

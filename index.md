@@ -1,7 +1,11 @@
 # 孔杰
 安徽六安 | 29岁 | 算法工程师 | 工作年限：5年
 ## 虚拟主播
-![](damo.mp4)
+```HTML
+<video width="1280" height="720" controls>
+    <source src="damo.mp4" type="video/mp4">
+</video>
+```
 
 ## 极速数字人
 ![](virtual_host_fast.mp4)

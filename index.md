@@ -13,7 +13,7 @@
           
           <video controls=""  width="100%">
                     <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
-                    <source src="https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4?raw=true" type="video/mp4">
+                    <source src="https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4" type="video/mp4">
           </video>
         </div>
       </div>

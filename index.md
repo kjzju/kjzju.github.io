@@ -2,7 +2,12 @@
 安徽六安 | 29岁 | 算法工程师 | 工作年限：5年
 ## 虚拟主播
 
+<<<<<<< HEAD
 <video src="https://user-images.githubusercontent.com/26479528/232462565-5f477c75-837c-472c-a107-c53f9f1dccea.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+=======
+https://user-images.githubusercontent.com/26479528/232462565-5f477c75-837c-472c-a107-c53f9f1dccea.mp4
+
+>>>>>>> b0c76dbc146b30f9b7b0eea4dc5038ad1dd03a8b
 
 ## 极速数字人
 ![](virtual_host_fast.mp4)

@@ -1,8 +1,7 @@
 # 孔杰
 安徽六安 | 29岁 | 算法工程师 | 工作年限：5年
 ## 虚拟主播
-
-![](https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4)
+{% dplayer "url=https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4" "api=http://dplayer.daoapp.io" "pic=http://img0.c.yinyuetai.com/artist/fan/150810/0/-M-70f069427cca50778df6b121a8bf5a8a_0x0.jpg" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 
 ## 极速数字人
 ![](virtual_host_fast.mp4)

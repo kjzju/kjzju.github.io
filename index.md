@@ -2,10 +2,7 @@
 安徽六安 | 29岁 | 算法工程师 | 工作年限：5年
 ## 虚拟主播
 
-
-```HTML
-<video src="https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4" controls="controls" width="500" height="300"></video>
-```
+![](https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4)
 
 ## 极速数字人
 ![](virtual_host_fast.mp4)

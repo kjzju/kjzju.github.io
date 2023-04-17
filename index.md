@@ -2,7 +2,24 @@
 安徽六安 | 29岁 | 算法工程师 | 工作年限：5年
 ## 虚拟主播
 
-<video  src="https://user-images.githubusercontent.com/48216707/229484996-5d7be64f-2553-4c9e-a452-c5cf0b8ebafe.mp4" type="video/mp4"> </video>
+<!-- Youtube video -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <!-- Paper video. -->
+      <h2 class="title is-3"><strong>Video1</strong>: Talking in different languages</h2>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          
+          <video controls=""  width="100%">
+                    <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
+                    <source src="https://github.com/kjzju/kjzju.github.io/blob/main/damo.mp4?raw=true" type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 ## 极速数字人
 ![](virtual_host_fast.mp4)

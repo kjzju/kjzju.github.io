@@ -8,7 +8,9 @@
 
 ## 3D数字人捏脸
 ![](makeup_face_demo.png)
+
 |原图|捏脸结果|3D数字人
+|![](hanyue_src.jpg)|![](3D.png)|<video src="https://user-images.githubusercontent.com/26479528/232726089-69f5563d-05d4-4594-819a-8a3fdbbfc9d4.mp4" controls="controls" width="300" height="300">您的浏览器不支持播放该视频！</video>|
 
 ## 视频换脸
 

@@ -16,7 +16,7 @@
 ## 视频换脸
 |目标人脸                       |原视频                       |
 | :-------------: | :--------------: |
-|<img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' width="200">|<video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" height="500">您的浏览器不支持播放该视频！</video>|
+|<img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' heigth="500">|<video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" height="500">您的浏览器不支持播放该视频！</video>|
 
 ## 视频换天
 <video src="https://user-images.githubusercontent.com/26479528/232736015-10aa39e4-5c6f-4c4b-a6c1-7b32f5d84bfd.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>

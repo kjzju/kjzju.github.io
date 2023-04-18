@@ -15,7 +15,7 @@
 
 ## 视频换脸
 |原图             |捏脸结果            |
-|:----------------: |:--------------: |
+|:----------------: | :--------------: |
 |<img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' heigth="500">|<video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" height="500">您的浏览器不支持播放该视频！</video>|
 
 ## 视频换天

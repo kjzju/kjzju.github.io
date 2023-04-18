@@ -15,7 +15,7 @@
 
 ## 视频换脸
 |目标人脸                       |原视频                       |
-|:---------------------------: |:-------------------------: |
+|------------|------------|
 |<img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' width="400">|<video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" width="400">您的浏览器不支持播放该视频！</video>|
 |Ours                          |SimSwap                     |
 |<video src="https://user-images.githubusercontent.com/26479528/232732266-31bb8200-fc60-4bb9-84b3-6a6c81aed900.mp4" controls="controls" width="400">您的浏览器不支持播放该视频！</video>|<video src="https://user-images.githubusercontent.com/26479528/232732414-a1cbdc85-47f9-4b8a-bf22-1ebee3c33c41.mp4" controls="controls" width="400">您的浏览器不支持播放该视频！</video>|

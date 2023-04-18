@@ -14,8 +14,8 @@
 |<img src='https://user-images.githubusercontent.com/26479528/232727624-e39e17b6-aab5-4551-b5ef-769bc32a9c10.jpg' width="300">|<img src='https://user-images.githubusercontent.com/26479528/232728727-04cb7d76-5b4a-4c88-86c6-86c8876d8d3f.png' width="300">|<video src="https://user-images.githubusercontent.com/26479528/232726089-69f5563d-05d4-4594-819a-8a3fdbbfc9d4.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video>|
 
 ## 视频换脸
-|目标人脸                       |原视频                       |
-| :-------------: | :--------------: |
+|原图             |捏脸结果            |
+|:----------------: |:--------------: |
 |<img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' heigth="500">|<video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" height="500">您的浏览器不支持播放该视频！</video>|
 
 ## 视频换天

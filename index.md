@@ -4,7 +4,7 @@
 <video src="https://user-images.githubusercontent.com/26479528/232692446-7381bd99-489a-413e-897e-36744fdcb298.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 ## 2D极速数字人（仅需2-5分钟训练素材）
-<video src="https://user-images.githubusercontent.com/26479528/232521913-4de176cf-6e49-46aa-8704-88894a835972.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="https://user-images.githubusercontent.com/26479528/232949984-4b99f4b5-4e61-43a0-af0a-965a7da43fa2.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 ## 3D数字人捏脸（基于单张照片）
 ![](makeup_face_demo.png)
@@ -17,7 +17,7 @@
 
 |目标人脸         |原视频            |Ours            |SimSwap            |
 | :---------------: | :--------------: | :--------------: | :--------------: |
-| <img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' width="300"> | <video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video> | <video src="https://user-images.githubusercontent.com/26479528/232732266-31bb8200-fc60-4bb9-84b3-6a6c81aed900.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video> | <video src="https://user-images.githubusercontent.com/26479528/232732414-a1cbdc85-47f9-4b8a-bf22-1ebee3c33c41.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video> 
+| <img src='https://user-images.githubusercontent.com/26479528/232755290-1601df46-deb8-4532-89b0-b207f3bab575.jpeg' width="500"> | <video src="https://user-images.githubusercontent.com/26479528/232732081-4a2bc53d-633c-48b6-b161-6efcc8fce4be.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video> | <video src="https://user-images.githubusercontent.com/26479528/232732266-31bb8200-fc60-4bb9-84b3-6a6c81aed900.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video> | <video src="https://user-images.githubusercontent.com/26479528/232732414-a1cbdc85-47f9-4b8a-bf22-1ebee3c33c41.mp4" controls="controls" width="300">您的浏览器不支持播放该视频！</video> 
 
 ## 视频换天
 <video src="https://user-images.githubusercontent.com/26479528/232736015-10aa39e4-5c6f-4c4b-a6c1-7b32f5d84bfd.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
